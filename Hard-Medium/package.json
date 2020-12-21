@@ -1,0 +1,15 @@
+{
+    "name": "med-hard",
+    "version": "1.0.0",
+    "description": "guided inquiry challenges for node week 2",
+    "main": "app.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Osmar Rodriguez",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.17.1",
+      "joi": "^13.7.0"
+    }
+  }

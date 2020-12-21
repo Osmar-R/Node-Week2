@@ -1,0 +1,65 @@
+  
+{
+    "employees":[
+        {
+            "id":1,
+            "name":"Osmar Rodriguez",
+            "salary":60000,
+            "department":"Science"
+        },
+        {
+            "id":2,
+            "name":"Caser wright",
+            "salary":100000,
+            "department":"Choreography"
+        },
+        {
+            "id":3,
+            "name":"Dave Chappel",
+            "salary":75000,
+            "department":"Science"
+        },
+        {
+            "id":4,
+            "name":"Keyvon Scott",
+            "salary":75000,
+            "department":"Dance"
+        },
+        {
+            "id":5,
+            "name":"Jake Paul",
+            "salary":1000000,
+            "department":"Boxing"
+        },
+        {
+            "id":6,
+            "name":"Keone Madrid",
+            "salary":2100000,
+            "department":"Choreography"
+        },
+        {
+            "id":7,
+            "name":"Clint Eastwood",
+            "salary":500000,
+            "department":"Professional"
+        },
+        {
+            "id":8,
+            "name":"Reggie",
+            "salary":1000000,
+            "department":"Software Engineer"
+        },
+        {
+            "id":9,
+            "name":"Mark Rober",
+            "salary":1000000,
+            "department":"Engineer"
+        },
+        {
+            "id":10,
+            "name":"John Cena",
+            "salary":1500000,
+            "department":"Wrestler"
+        }
+    ]
+}
